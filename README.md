@@ -121,9 +121,11 @@ Enviando as Alterações
 ```
 git push -u origin main
 ```
-Pegando as alterações
+Recebendo as Alterações
 ```
-git 
+git pull origin (nome-da-branch)
+
+```
 ## Desfazendo Alterações no Repositório Local ❌
 Remover todos os arquivos
 ```
